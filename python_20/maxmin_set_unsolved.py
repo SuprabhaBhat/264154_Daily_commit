@@ -1,6 +1,6 @@
 #Write a Python program to find maximum and the minimum value in a set
-seta = set([5, 10, 3, 15, 2, 20])
+set= set([5, 10, 3, 15, 2, 20])
 
-print(max(seta))
+print(max(set))
 
-print(min(seta))
+print(min(set))
